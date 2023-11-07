@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_93.jpg</filename>
+	<path>/home/ivan/PycharmProjects/ImageAITrafficLightTest/traffic_lights/train/images/img_93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>66</ymin>
+			<xmax>131</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
